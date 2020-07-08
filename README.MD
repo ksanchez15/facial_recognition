@@ -19,4 +19,5 @@ To install most of them run `pip3 install -r requirements.txt`
 Dlib will not get installed with the last command. For detailed instruction follow these [easy steps](https://www.pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide/)
 
 ### Then run the script
-`python facial_landmarks.py`
+`python facial_landmarks.py --image images/kevin.jpg`
+Or you can use your own image
